@@ -21,6 +21,8 @@ Last commit 21st November 2022
   -*Z* to loop
 
 
-- ### Enemies list
+- ### Gameplay
+<img src="images/loadscreen.png" alt="Loadscreen" width="300" /> <img src="images/game1.png" alt="Loadscreen" width="300" /> 
+
 
   
